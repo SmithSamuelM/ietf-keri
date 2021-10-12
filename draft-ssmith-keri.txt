@@ -9,11 +9,18 @@ Expires: 15 April 2022
 
 
                 Key Event Receipt Infrastructure (KERI)
-                  draft-todo-yourname-protocol-latest
+                        draft-ssmith-keri-latest
 
 Abstract
 
    TODO Abstract
+
+Discussion Venues
+
+   This note is to be removed before publishing as an RFC.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/WebOfTrust/ietf-keri.
 
 Status of This Memo
 
